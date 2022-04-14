@@ -1,1 +1,2 @@
 # week3GuidedInquiry
+To run the two challenges that need user input, please go into the index.html and change the script source to that javascript file. the two files you need to do that to are medium.js and veryHard.js. The rest of the files should be able to run in either html and node. Thanks!
